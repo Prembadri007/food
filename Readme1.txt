@@ -1,4 +1,4 @@
-== Theme Name: Food And Restaurant Psd Template tytuiyi
+== Theme Name: Food And Restaurant Psd Template uyih
 
 == Copyright (c) 2016 BootstrapThemes.co
 
